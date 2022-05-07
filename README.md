@@ -6,6 +6,7 @@ Major findings include:
 First Part - analysis between Pfizer and moderna Vaccines:
 We found that the coding regions of the vaccines are identical in the protein level.
 On the nucleotide level, the coding regions of the vaccines are not identical.
+
 <img src="https://user-images.githubusercontent.com/62726511/167273832-0b30c00d-adba-4f09-a937-be0107959cf7.png" width="500" >
 <img src="https://user-images.githubusercontent.com/62726511/167273837-9c4359bc-ab6a-48d7-97bf-d19e36906388.png" width="500" >
 
@@ -19,7 +20,7 @@ One K in the Wuhan spike region is replaced by a P in the Pfizer spike region, a
 
 We found up the lookup table that mapping between the Wuhan strain codons to the Pfizer codons - 
 maps non-GC codons to GC codons thus increasing the GC content in the vaccine. This will increase the stability of the vaccine while maintaining the same amino-acid structure.
-![image](https://user-images.githubusercontent.com/62726511/167274192-22415134-42eb-493d-9752-39a6f60dcabd.png)
+
 
 Third Part - The variants
 

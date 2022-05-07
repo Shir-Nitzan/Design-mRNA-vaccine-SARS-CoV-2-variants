@@ -1,11 +1,12 @@
-# Design-mRNA-vaccine-SARS-CoV-2-variants
- The goal of this project is to update the mRNA vaccine based on the BA.2 Spike! (assume that the vaccine does not work for the BA.2 variant)
-Designing an mRNA vaccine against SARS-CoV-2 variants - 
-In this work, we updated the mRNA vaccine based on the BA.2 spike.
+# :test_tube: Designing an mRNA vaccine against SARS-CoV-2 variants
+In this work, we updated the mRNA vaccine based on the BA.2 spike! (assume that the vaccine does not work for the BA.2 variant).
 
-This Project done by 2022.
-First Part - basic analysis between Pfizer and moderna Vaccines.
+
 Major findings include:
+First Part - analysis between Pfizer and moderna Vaccines:
+![image](https://user-images.githubusercontent.com/62726511/167273832-0b30c00d-adba-4f09-a937-be0107959cf7.png)
+![image](https://user-images.githubusercontent.com/62726511/167273837-9c4359bc-ab6a-48d7-97bf-d19e36906388.png)
+
 Second Part - comparison to the Wuhan strain:
 We found that there were only two differences, and they are adjacent. One K in the Wuhan spike region is replaced by a P in the Pfizer spike region, and likewise for a V.
 

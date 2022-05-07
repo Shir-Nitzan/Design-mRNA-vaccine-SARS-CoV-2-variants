@@ -6,9 +6,9 @@ Major findings include:
 First Part - analysis between Pfizer and moderna Vaccines:
 We found that the coding regions of the vaccines are identical in the protein level.
 On the nucleotide level, the coding regions of the vaccines are not identical.
+<img src="https://user-images.githubusercontent.com/62726511/167273832-0b30c00d-adba-4f09-a937-be0107959cf7.png" width="500" >
+<img src="https://user-images.githubusercontent.com/62726511/167273837-9c4359bc-ab6a-48d7-97bf-d19e36906388.png" width="500" >
 
-![image](https://user-images.githubusercontent.com/62726511/167273832-0b30c00d-adba-4f09-a937-be0107959cf7.png)
-![image](https://user-images.githubusercontent.com/62726511/167273837-9c4359bc-ab6a-48d7-97bf-d19e36906388.png)
 
 Second Part - comparison to the Wuhan strain:
 We found that there were only two differences, and they are adjacent:
@@ -36,15 +36,11 @@ Designing our BA2 vaccine included looking for all the places with substitutions
 
 
 
-## Use case 📲
-1. Run the python server from app.py start point.
-2. Enter localhost:
-```bash
-http://127.0.0.1:8080/
-```
-3. Follow the demo:
+## Findings Presentation Demo 📝
 
-![HackatonIDC2021](https://user-images.githubusercontent.com/62726511/120941407-4cbe6780-c72b-11eb-9158-a4371a007288.gif)
 
-4. Once you upload images of driver license, car license and car policy, the app will automatically fill all of the forms details 📝.
+
+![www-screencapture-com-2022-5-8-00-09_wQJ2l7jx](https://user-images.githubusercontent.com/62726511/167274240-ff753f11-2bae-4429-90da-dcfa3e9fcafd.gif)
+
+
 

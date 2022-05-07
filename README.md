@@ -4,11 +4,18 @@ In this work, we updated the mRNA vaccine based on the BA.2 spike! (assume that 
 
 Major findings include:
 First Part - analysis between Pfizer and moderna Vaccines:
+We found that the coding regions of the vaccines are identical in the protein level.
+On the nucleotide level, the coding regions of the vaccines are not identical.
+
 ![image](https://user-images.githubusercontent.com/62726511/167273832-0b30c00d-adba-4f09-a937-be0107959cf7.png)
 ![image](https://user-images.githubusercontent.com/62726511/167273837-9c4359bc-ab6a-48d7-97bf-d19e36906388.png)
 
 Second Part - comparison to the Wuhan strain:
-We found that there were only two differences, and they are adjacent. One K in the Wuhan spike region is replaced by a P in the Pfizer spike region, and likewise for a V.
+We found that there were only two differences, and they are adjacent:
+
+![image](https://user-images.githubusercontent.com/62726511/167273901-9ffa7609-b1ec-499e-90ae-d9fb71569623.png)
+
+One K in the Wuhan spike region is replaced by a P in the Pfizer spike region, and likewise for a V.
 
 We found up the lookup table maps non-GC codons to GC codons thus increasing the GC content in the vaccine. This will increase the stability of the vaccine while maintaining the same amino-acid structure.
 

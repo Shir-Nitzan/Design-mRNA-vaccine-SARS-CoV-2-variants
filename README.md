@@ -17,18 +17,34 @@ We found that there were only two differences, and they are adjacent:
 
 One K in the Wuhan spike region is replaced by a P in the Pfizer spike region, and likewise for a V.
 
-We found up the lookup table maps non-GC codons to GC codons thus increasing the GC content in the vaccine. This will increase the stability of the vaccine while maintaining the same amino-acid structure.
+We found up the lookup table that mapping between the Wuhan strain codons to the Pfizer codons - 
+maps non-GC codons to GC codons thus increasing the GC content in the vaccine. This will increase the stability of the vaccine while maintaining the same amino-acid structure.
+![image](https://user-images.githubusercontent.com/62726511/167274192-22415134-42eb-493d-9752-39a6f60dcabd.png)
 
-Behold our BA2 vaccine
+Third Part - The variants
+
+BA1-BA2 differences:
+There are 21 differences, first difference at index 18
+Length of proteins are the same: 1271
+BA2 initiation codon is 50 indexes after BA1
+Length of mRNA coding regions are both: 3813
 
 
-We found that the KV being replaced by PP in the vaccine results in a stabilized spike protein in the eprefusion state and contributes to the efficiency of the vaccine. It is thought that the KV is probably not functionally important. Source: [article](https://pubmed.ncbi.nlm.nih.gov/33466921/)
+We found that the KV being replaced by PP in the vaccine results in a stabilized spike protein in the eprefusion state and contributes to the efficiency of the vaccine. It is thought that the KV is probably not functionally important. Source: [article](https://pubmed.ncbi.nlm.nih.gov/33466921/).
+Designing our BA2 vaccine included looking for all the places with substitutions and change the codons by the Pfizer lookup table (from last part).
 
 
-Analysis of mutational antigenic profiling of barcoded codon variants of SARS-CoV-2 RBD.
 
-Study and analysis by Allie Greaney, Tyler Starr, Jesse Bloom, and co-authors. These experiments are described in Greaney, et. al, Science Translational Medicine (2021).
 
-This work examines mutations that reduce binding by polyclonal serum antibodies from individuals vaccinated with the Moderna mRNA-1273 vaccine, and compares the results to those from individuals infected with SARS-CoV-2.
+## Use case 📲
+1. Run the python server from app.py start point.
+2. Enter localhost:
+```bash
+http://127.0.0.1:8080/
+```
+3. Follow the demo:
 
-The vaccine samples are from the mRNA-1273 phase 1 study, funded by the National Institutes of Allergy and Infectious Diseases.
+![HackatonIDC2021](https://user-images.githubusercontent.com/62726511/120941407-4cbe6780-c72b-11eb-9158-a4371a007288.gif)
+
+4. Once you upload images of driver license, car license and car policy, the app will automatically fill all of the forms details 📝.
+

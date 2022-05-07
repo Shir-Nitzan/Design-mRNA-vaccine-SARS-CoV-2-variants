@@ -1,9 +1,9 @@
 # :test_tube: Designing an mRNA vaccine against SARS-CoV-2 variants
 In this work, we updated the mRNA vaccine based on the BA.2 spike! (assume that the vaccine does not work for the BA.2 variant).
 
+The following findings focused on each part:
 
-Major findings include:
-First Part - analysis between Pfizer and moderna Vaccines:
+# First Part - analysis between Pfizer and moderna Vaccines
 We found that the coding regions of the vaccines are identical in the protein level.
 On the nucleotide level, the coding regions of the vaccines are not identical.
 
@@ -11,7 +11,7 @@ On the nucleotide level, the coding regions of the vaccines are not identical.
 <img src="https://user-images.githubusercontent.com/62726511/167273837-9c4359bc-ab6a-48d7-97bf-d19e36906388.png" width="500" >
 
 
-Second Part - comparison to the Wuhan strain:
+# Second Part - comparison to the Wuhan strain
 We found that there were only two differences, and they are adjacent:
 
 ![image](https://user-images.githubusercontent.com/62726511/167273901-9ffa7609-b1ec-499e-90ae-d9fb71569623.png)
@@ -22,7 +22,7 @@ We found up the lookup table that mapping between the Wuhan strain codons to the
 maps non-GC codons to GC codons thus increasing the GC content in the vaccine. This will increase the stability of the vaccine while maintaining the same amino-acid structure.
 
 
-Third Part - The variants
+# Third Part - The variants
 
 BA1-BA2 differences:
 There are 21 differences, first difference at index 18

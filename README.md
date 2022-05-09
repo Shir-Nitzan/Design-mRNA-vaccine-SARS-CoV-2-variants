@@ -31,7 +31,7 @@ BA2 initiation codon is 50 indexes after BA1
 Length of mRNA coding regions are both: 3813
 
 
-We found that the KV being replaced by PP in the vaccine results in a stabilized spike protein in the eprefusion state and contributes to the efficiency of the vaccine. It is thought that the KV is probably not functionally important. Source: [article](https://pubmed.ncbi.nlm.nih.gov/33466921/).
+We found that the KV being replaced by PP in the vaccine results in a stabilized spike protein in the eprefusion state and contributes to the efficiency of the vaccine. It is thought that the KV is probably not functionally important. 
 Designing our BA2 vaccine included looking for all the places with substitutions and change the codons by the Pfizer lookup table (from last part).
 
 
